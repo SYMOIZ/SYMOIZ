@@ -65,9 +65,9 @@ Azure Data Factory • Azure Data Lake • Azure SQL • Azure Databricks • Ev
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SYMOIZ&show_icons=true&theme=dark)
+![Syed Moiz GitHub stats](https://github-readme-stats.vercel.app/api?username=SYMOIZ&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYMOIZ&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYMOIZ&layout=compact&theme=tokyonight)
 
 ---
 
