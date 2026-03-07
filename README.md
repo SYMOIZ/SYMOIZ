@@ -1,21 +1,74 @@
-# 💫 About Me:
-☁️ Cloud Data Engineer with 1.5+ years of hands-on experience building scalable data systems<br><br>⚙️ Experienced in designing ETL/ELT pipelines, real-time data streaming, and cloud data warehouses<br><br>🛠️ Tech Stack: AWS (S3, EC2, IAM, Kinesis), Snowflake, Apache Airflow, Apache Kafka<br><br>💻 Programming: Python, SQL for data processing, automation, and pipeline development<br><br>🏗️ Skilled in building event-driven architectures, data lakes, and analytics-ready datasets<br><br>📊 Focused on transforming raw data into reliable, automated data infrastructure for analytics and decision-making
+#  Hello, I'm Syed Moiz
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sy.moiz.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/symoiz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/MoizSy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@SyMoiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:symoiz2003@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Syed Moiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Syed Moiz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed Moiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed Moiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+☁️ Cloud Data Engineer | Data Pipelines | Data Platforms | Data Infrastructure  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Syed Moiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+Cloud Data Engineer with **1.5+ years of hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
+Focused on designing **reliable, automated, and analytics-ready data architectures** that transform raw data into business insights.
+
+I enjoy working on **data infrastructure, event-driven systems, and modern data stack technologies** to support analytics, monitoring, and real-time decision making.
+
+---
+
+## 💼 Professional Experience
+
+**Junior Data Engineer — SEBKO Solution**  
+*Jul 2024 – Present*
+
+- Designed **event-driven ingestion pipelines** using **AWS + Kafka** for high-volume network and system logs.  
+- Built centralized **Snowflake Data Warehouse** serving analytics and operational dashboards.  
+- Developed **automated ETL pipelines using Python, SQL, and Apache Airflow**.  
+- Reduced operational data latency by **75%** and improved reporting speed **4×**.  
+- Implemented **self-healing pipeline architecture** achieving **97% pipeline uptime**.
+
+---
+
+## 🏗 Data Engineering Expertise
+
+- Data Pipeline Development (ETL / ELT)
+- Real-Time Data Streaming
+- Data Warehousing & Analytics Engineering
+- Event-Driven Data Architecture
+- Data Modeling & Optimization
+- Data Lake & Lakehouse Architectures
+- Workflow Orchestration
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+Python • SQL • Apache Spark • Apache Flink • Linux Shell
+
+### Cloud Platforms
+AWS • Microsoft Azure
+
+### Data Platforms
+Snowflake • Databricks
+
+### Data Engineering Tools
+Apache Airflow • Apache Kafka • Delta Lake • Git • Docker
+
+---
+
+## ☁️ Cloud Services
+
+**AWS**
+S3 • EC2 • Kinesis • SNS • Glue • Lambda • Redshift • Athena • EMR • CloudWatch  
+
+**Azure**
+Azure Data Factory • Azure Data Lake • Azure SQL • Azure Databricks • Event Hub  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=symoiz&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symoiz&layout=compact&theme=dark)
+
+---
+
+⭐ Building scalable cloud data systems and modern analytics infrastructure.
