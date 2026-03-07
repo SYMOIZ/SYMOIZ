@@ -69,6 +69,4 @@ Azure Data Factory • Azure Data Lake • Azure SQL • Azure Databricks • Ev
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SYMOIZ&layout=compact&theme=tokyonight)
 
-#
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SYMOIZ&theme=tokyo-night)
