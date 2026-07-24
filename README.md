@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-Cloud Data Engineer with **3+ years of hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
+Cloud Data Engineer with **hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
 Focused on designing **reliable, automated, and analytics-ready data architectures** that transform raw data into business insights.
 
 I enjoy working on **data infrastructure, event-driven systems, and modern data stack technologies** to support analytics, monitoring, and real-time decision making.
@@ -15,7 +15,6 @@ I enjoy working on **data infrastructure, event-driven systems, and modern data 
 ## 💼 Professional Experience
 
 **Junior Data Engineer — SEBKO Solution**  
-*Jul 2024 – Present*
 
 - Designed **event-driven ingestion pipelines** using **AWS + Kafka** for high-volume network and system logs.  
 - Built centralized **Snowflake Data Warehouse** serving analytics and operational dashboards.  
