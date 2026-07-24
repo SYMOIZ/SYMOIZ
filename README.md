@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-Cloud Data Engineer with **1.5+ years of hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
+Cloud Data Engineer with **3+ years of hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
 Focused on designing **reliable, automated, and analytics-ready data architectures** that transform raw data into business insights.
 
 I enjoy working on **data infrastructure, event-driven systems, and modern data stack technologies** to support analytics, monitoring, and real-time decision making.
