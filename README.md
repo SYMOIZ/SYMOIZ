@@ -1,65 +1,85 @@
-#  Hello, I'm Syed Moiz
+👋 Hello, I'm Syed Moiz
 
-☁️ Cloud Data Engineer | Data Pipelines | Data Platforms | Data Infrastructure  
+☁️ Infrastructure & DevOps Engineer | Cloud Infrastructure | AWS | Azure | Kubernetes | Terraform
 
----
+🚀 About Me
 
-## 🚀 About Me
-Cloud Data Engineer with **hands-on experience** building scalable data pipelines, real-time data systems, and modern cloud data platforms.  
-Focused on designing **reliable, automated, and analytics-ready data architectures** that transform raw data into business insights.
+Infrastructure & DevOps Engineer with hands-on experience managing cloud and data-center infrastructure, deployments, automation, monitoring, and production environments across AWS and Microsoft Azure.
 
-I enjoy working on **data infrastructure, event-driven systems, and modern data stack technologies** to support analytics, monitoring, and real-time decision making.
+Focused on building reliable, scalable, secure, and cost-efficient infrastructure using Infrastructure as Code, containerization, CI/CD, Kubernetes, monitoring, and automation.
 
----
+I enjoy designing cloud infrastructure, deployment platforms, migration solutions, and operational automation that improve reliability, deployment efficiency, and infrastructure visibility.
 
-## 💼 Professional Experience
+💼 Professional Experience
+Infrastructure & DevOps Engineer — SEBKO Solution
+Managed cloud and data-center infrastructure across compute, networking, Kubernetes, and monitoring environments, using automation and dashboards to improve infrastructure visibility and reliability.
+Built and maintained AWS/Azure infrastructure and deployment environments, supporting infrastructure provisioning, application deployments, migrations, backups, and production operations.
+Implemented CI/CD, containerization, monitoring, and infrastructure automation using Docker, Kubernetes, Git, Terraform, and cloud-native services.
+Optimized infrastructure resources and workloads to improve deployment efficiency, system performance, and cloud cost utilization.
+Supported cloud modernization and migration initiatives, designing infrastructure solutions with minimal service interruption and reliable deployment processes.
+🏗 Infrastructure & DevOps Expertise
+Cloud Infrastructure Management
+Infrastructure as Code (IaC)
+CI/CD & Deployment Automation
+Kubernetes & Container Orchestration
+Docker & Containerization
+Cloud Migration & Modernization
+Infrastructure Monitoring & Observability
+Backup & Disaster Recovery
+Cloud Cost Optimization
+Network & Server Infrastructure
+Production Operations
+Infrastructure Security & Reliability
+🛠 Tech Stack
+Cloud
 
-**Junior Data Engineer — SEBKO Solution**  
-
-- Designed **event-driven ingestion pipelines** using **AWS + Kafka** for high-volume network and system logs.  
-- Built centralized **Snowflake Data Warehouse** serving analytics and operational dashboards.  
-- Developed **automated ETL pipelines using Python, SQL, and Apache Airflow**.  
-- Reduced operational data latency by **75%** and improved reporting speed **4×**.  
-- Implemented **self-healing pipeline architecture** achieving **97% pipeline uptime**.
-
----
-
-## 🏗 Data Engineering Expertise
-
-- Data Pipeline Development (ETL / ELT)
-- Real-Time Data Streaming
-- Data Warehousing & Analytics Engineering
-- Event-Driven Data Architecture
-- Data Modeling & Optimization
-- Data Lake & Lakehouse Architectures
-- Workflow Orchestration
-
----
-
-## 🛠 Tech Stack
-
-### Programming
-Python • SQL • Apache Spark • Apache Flink • Linux Shell
-
-### Cloud Platforms
 AWS • Microsoft Azure
 
-### Data Platforms
-Snowflake • Databricks
+Infrastructure & Automation
 
-### Data Engineering Tools
-Apache Airflow • Apache Kafka • Delta Lake • Git • Docker
+Terraform • Ansible • Git • Linux • Bash
 
----
+Containers & Orchestration
 
-## ☁️ Cloud Services
+Docker • Kubernetes
 
-**AWS**
-S3 • EC2 • Kinesis • SNS • Glue • Lambda • Redshift • Athena • EMR • CloudWatch  
+CI/CD
 
-**Azure**
-Azure Data Factory • Azure Data Lake • Azure SQL • Azure Databricks • Event Hub  
+GitHub Actions • Azure DevOps • CI/CD Pipelines
 
+Monitoring & Observability
+
+Prometheus • Grafana • AWS CloudWatch • Azure Monitor
+
+Networking
+
+VPC • Subnets • Routing • DNS • VPN • Load Balancing • Security Groups
+
+Data Infrastructure
+
+Snowflake • Databricks • Apache Kafka • Apache Spark • Airflow
+
+☁️ Cloud Services
+AWS
+
+EC2 • VPC • S3 • IAM • Lambda • CloudWatch • CloudFormation • Load Balancing • Auto Scaling • Route 53
+
+Azure
+
+Virtual Machines • Virtual Network • Entra ID • Azure Monitor • Azure Storage • Azure DevOps • Azure Data Factory • Azure Databricks
+
+🚀 Featured Projects
+☁️ Cloud Trading Infrastructure & Monitoring Platform
+
+AWS • Terraform • Kubernetes • Docker • GitHub Actions • Prometheus • Grafana
+
+Production-style cloud infrastructure for a market-trading platform supporting trading APIs, market-data services, deployments, monitoring, backups, and infrastructure automation.
+
+📊 Cloud Data & Streaming Platform
+
+AWS • Kafka • Snowflake • Python • Airflow • Docker
+
+Event-driven data infrastructure for high-volume system and network data, integrating streaming ingestion, automated pipelines, cloud storage, Snowflake, and operational dashboards.
 ---
 
 ## 📊 GitHub Stats
