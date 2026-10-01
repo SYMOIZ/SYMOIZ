@@ -107,12 +107,3 @@ Event-driven data infrastructure for high-volume system and network data, integr
 
 **LinkedIn:** https://www.linkedin.com/in/symoiz/
 **Email:** [symoiz.dev@gmail.com](mailto:symoiz.dev@gmail.com)
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SYMOIZ&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SYMOIZ&layout=compact&theme=tokyonight)
-
-
