@@ -16,7 +16,7 @@ I enjoy designing **cloud infrastructure, deployment platforms, migration soluti
 
 ## 💼 Professional Experience
 
-### Infrastructure & DevOps Engineer — SEBKO Solution
+### Infrastructure & DevOps Engineer
 
 * Managed **cloud and data-center infrastructure** across compute, networking, Kubernetes, and monitoring environments, using automation and dashboards to improve infrastructure visibility and reliability.
 * Built and maintained **AWS/Azure infrastructure and deployment environments**, supporting infrastructure provisioning, application deployments, migrations, backups, and production operations.
